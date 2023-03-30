@@ -1,0 +1,6 @@
+*.code-workspace
+output
+venv
+src/dataset/train1
+src/dataset/test
+__pycache__
