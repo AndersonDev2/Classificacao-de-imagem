@@ -1,4 +1,4 @@
-# Classificacao de imagem com tensorflow
+# Classificação de imagem com tensorflow
 
 Labels:
   Prédios,
